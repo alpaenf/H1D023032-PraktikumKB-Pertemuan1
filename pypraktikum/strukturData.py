@@ -1,6 +1,3 @@
-# strukturData.py
-
-# Daftar ramalan karier
 karier = [
     "CEO perusahaan besar", 
     "Programmer jenius", 
@@ -10,7 +7,6 @@ karier = [
     "Ilmuwan waktu"
 ]
 
-# Daftar ramalan cinta
 cinta = [
     "Menikah muda 💍", 
     "Menikmati masa lajang 🎉", 
@@ -19,7 +15,6 @@ cinta = [
     "Ketemu jodoh di tempat tak terduga 💘"
 ]
 
-# Daftar keberuntungan
 keberuntungan = [
     "Hari ini kamu akan menemukan uang di jalan 💸",
     "Ada kejutan manis menantimu 🍬",
